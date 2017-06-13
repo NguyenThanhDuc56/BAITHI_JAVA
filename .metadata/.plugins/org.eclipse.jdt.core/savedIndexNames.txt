@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+G:\GitHub\BAITHI_JAVA\.metadata\.plugins\org.eclipse.jdt.core
-3825450178.index
-40840233.index
-666584392.index
