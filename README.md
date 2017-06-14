@@ -8,4 +8,4 @@ App game bầu cua tôm cá.
 -Game được lập trình trên andorid bằng eclipse. Với thuật toán random các mặt của xí ngầu trong 1 thời gian nhất định khi người chơi nhấn vào bắt đầu, nếu xí ngầu ra các mặt người chơi đã đặt thì lượng tiền của người chơi được tăng lên, ngược lại thì bị trừ đi.
 
 -Bài thi được tham khảo từ tác giả Chế Công Bình - myclass.vn :
-https://www.youtube.com/watch?v=BtsG420ABrU
+https://www.youtube.com/channel/UCzMRhbwUVbLuL_kvduW5OCQ
